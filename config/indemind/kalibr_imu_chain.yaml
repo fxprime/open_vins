@@ -19,7 +19,7 @@ imu0:
   gyroscope_random_walk: 0.000126170484
 
   rostopic: /imsee/imu
-  time_offset: 0.02348
+  time_offset: 0.02417
   update_rate: 1000
   # three different modes supported:
   # "calibrated" (same as "kalibr"), "kalibr", "rpng"
